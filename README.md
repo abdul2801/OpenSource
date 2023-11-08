@@ -28,5 +28,3 @@ A repo for beginners to get started with github
 | Name      | RollNumber|    
 | :-------- | :-------  |
 | `Abdul` | `2022BCY0026` |
-
-| `steve` | `2022bcy65`|
