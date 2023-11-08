@@ -21,7 +21,7 @@ A repo for beginners to get started with github
 
 
 
-```http
+```bash
   List of names
 ```
 
